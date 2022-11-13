@@ -6,3 +6,6 @@ Today is sunday and sunny day; Today is cloudy
 Tomorow histroy 
 
 Modification from remote repository
+
+
+modification added for git branch feature1
