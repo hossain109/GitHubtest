@@ -1,8 +1,8 @@
 This is new file for test
 
-Today is sunday and sunny day;
+Today is sunday and sunny day; Today is cloudy
 
 
-Tomorow histroy
+Tomorow histroy 
 
 Modification from remote repository
